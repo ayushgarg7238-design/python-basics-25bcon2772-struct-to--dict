@@ -28,8 +28,8 @@ The program stores the following information:
 
 ```python
 student = {
-    "Name": "Harsh",
-    "Roll": 10,
+    "Name": "Ayush Garg",
+    "Roll": 2772,
     "Marks": 90.99
 }
 ```
@@ -38,8 +38,8 @@ Example output:
 
 ```text
 Student Details:
-Name  : Harsh
-Roll  : 10
+Name  : Ayush Garg
+Roll  : 2772
 Marks : 90.99
 ```
 
